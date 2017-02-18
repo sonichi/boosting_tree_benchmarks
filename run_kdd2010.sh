@@ -22,10 +22,6 @@ run_goss(){
 }
 
 run_mefb 0
-run_mefb 01
-run_mefb 001
-run_mefb 0001
-run_mefb 00001
 
 for a in "5" "10" "20" "30" 
 do
